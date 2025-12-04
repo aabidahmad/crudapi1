@@ -12,13 +12,10 @@ This is a Spring Boot REST API that supports:
 ✔ MySQL database
 ✔ ModelMapper + DTOs
 
-🚀 How to Run the Project
-
-1️⃣ the ZIP file (sent via email)
-
-Download the ZIP file from email
-
-Extract it anywhere on your system
+How to Run the Project
+1. Clone the repository
+   git clone https://github.com/aabidahmad/crudapi1.git
+   cd crudapi
 
 Open the project in IntelliJ IDEA / Eclipse / VS Code
 
