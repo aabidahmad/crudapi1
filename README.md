@@ -8,7 +8,6 @@ This is a Spring Boot REST API that supports:
 ✔ Create / Read / Update / Delete Notes
 ✔ Authentication using JWT Token
 ✔ Password hashing using BCrypt
-✔ Swagger UI for API testing
 ✔ MySQL database
 ✔ ModelMapper + DTOs
 
